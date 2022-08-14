@@ -1,0 +1,48 @@
+{
+	"storyName": "port by frenanfloo",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"screenplay",
+			"agoti-icon",
+			[
+				215,
+				0,
+				0
+			]
+		],
+		[
+			"parasite",
+			"agoti-icon",
+			[
+				215,
+				0,
+				0
+			]
+		],
+		[
+			"a.g.o.t.i",
+			"agoti-mad",
+			[
+				215,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"agoti",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}
